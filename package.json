@@ -1,0 +1,24 @@
+{
+  "name": "hello-matrix",
+  "version": "1.0.0",
+  "description": "Hello [martix-js-sdk](https://github.com/matrix-org/matrix-js-sdk)! matrix-js-sdk is the Matrix client-server SDK for javascript that can be run in a browser or in Node.js.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqppq/hello-matrix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqppq/hello-matrix/issues"
+  },
+  "homepage": "https://github.com/pqppq/hello-matrix#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.34",
+    "typescript": "^4.6.4"
+  }
+}
