@@ -1,7 +1,7 @@
 # hello-martix
 
 [matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) is Typescript/JavaScript SDK for [matrix](https://github.com/matrix-org) bots.
-Document is [here](https://turt2live.github.io/matrix-bot-sdk/index.html)
+Document is [here](https://turt2live.github.io/matrix-bot-sdk/index.html).
 
 # Matrix account
 
