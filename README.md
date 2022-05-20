@@ -8,6 +8,6 @@ Document is [here](https://turt2live.github.io/matrix-bot-sdk/index.html)
 You need matrix account and access token to use matrix-bot-sdk. The Simplest way to make account is to use [Element](https://app.element.io/).
 Element is the web-based client on Matrix.org.
 
-# Additionnal
+# Additional
 
 If you have already have matrix account, you can also use cli-based client like [gomuks](https://github.com/tulir/gomuks).
