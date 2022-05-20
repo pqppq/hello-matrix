@@ -5,6 +5,8 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,7 +24,6 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
-    "@types/matrix-js-sdk": "^11.0.1",
-    "matrix-js-sdk": "^17.2.0"
+    "matrix-bot-sdk": "^0.5.19"
   }
 }
