@@ -10,4 +10,4 @@ Element is the web-based client on Matrix.org.
 
 # Additional
 
-If you have already have matrix account, you can also use cli-based client like [gomuks](https://github.com/tulir/gomuks).
+If you already have matrix account, you can also use cli-based client like [gomuks](https://github.com/tulir/gomuks).
